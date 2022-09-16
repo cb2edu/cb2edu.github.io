@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<title>Structural Bioinformatics Unit</title>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="Keywords" content=" 
+stability, folding, disease, mutation, SNP, 
+I-Mutant, PhD-SNP, K-Fold, machine learning, 
+Emidio Capriotti, Bioinformatics, Proteins,
+Jairo Rocha">
+<meta name="Author" content="Emidio Capriotti">
+<meta name="Generator" content="">
+
+<link rel="stylesheet" href="./style.css" 
+type="text/css" title="Structural Bioinformtics Unit @ UIB"></head><body>
+
+  <!-- Start main -->
+  <div id="main">
+  <br><br><br>
+    <!-- Start header -->
+    <div id="content"><img class="header" src="./img/cmb.png" alt="Structural Bioinformatics Unit -
+                University of Balearic Islands" align="center" /><br />
+      <br />
+    </div>
+   
+    
+    <!-- End header -->
+
+    <!-- Start menu -->
+    <div id="menu">
+      <table class="navig">
+	<tbody><tr>
+	  <td><a href="../index.html">Home</a></td>
+	  <td><a href="./research.html">Research</a></td>
+	  <td><a href="./servers.html">Servers </a></td>
+	  <td><a href="./papers.html">Papers</a></td>
+	  <td><a href="./people.html">People</a></td>
+	  <td><a href="pages/links.html">Links </a></td>
+	</tr>
+      </tbody></table>
+    </div>
+    <!-- End menu -->
+
+    <!-- Start content -->
+    <div id="content">
+     
+<p class="txtzone">
+	
+   <br />
+   The Structural Bioinformatics Unit is composed by researchers of the 
+   <a target="blank" href="http://bioinfo.uib.es/"> Computational Biology 
+   and Bioinformatics Research Group</a> of the 
+   <a target="blank" href="http://www.uib.es/"> 
+   University of Balearic Islands (UIB)</a> at Palma de Mallorca (Spain). 
+   The research unit is hosted by the <a target="blank" href="http://dmi.uib.es/">Departement of Mathematics and Computer 
+   Sciences</a> in the Anselm Turmeda building.<br>
+   <br>
+   The research activity of the unit is focused on the study of the 
+   three-dimensional structure of proteins and nucleic acids.
+   The main research topics are the developing of new methods for 
+   structural comparison and prediction and the characterization of important 
+   structural features for the folding process.<br><br>
+   During the last years, this research resulted in the development of new web 
+   server applications that will be hosted on this server.
+   <br><br><br>
+</p>
+    
+    <!-- Start bottom -->
+    <div id="bottom">
+      University of Balearic Islands.
+     Cra. de Valldemossa, km 7.5.
+     Palma de Mallorca. E-07122 (Spain).
+     <br>
+    </div>
+    <!-- End bottom -->
+ 
+    
+    
+    <div id="content"><img class="bottom" src="./img/bottom.png" alt="Structural Bioinformatics Unit -
+                University of Balearic Islands" align="center" /></div>
+   
+    
+    
+    <!-- End footer -->
+  </div>
+    <!-- End Main -->
+  </div>
+</body></html>

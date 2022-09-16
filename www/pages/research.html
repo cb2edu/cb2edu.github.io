@@ -1,0 +1,216 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<title>Computational Molecular Biology Unit - Research</title>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="Keywords" content=" 
+stability, folding, disease, mutation, SNP, 
+I-Mutant, PhD-SNP, K-Fold, machine learning, 
+Emidio Capriotti, Malay Basu, Bioinformatics, Proteins,
+Computational, Molecular, Biology, CMB,
+University, Alabama, Birmingham">
+<meta name="Author" content="Emidio Capriotti">
+<meta name="Generator" content="">
+
+<link rel="stylesheet" href="./style.css" 
+type="text/css" title="Computational Molecular Biology Unit @ UAB">
+
+</head><body>
+
+  <!-- Start main -->
+  <div id="main">
+  <br><br><br>
+    <!-- Start header -->
+    <div id="content"><img class="header" src="./img/cmb.png" alt="Computational Molecular Biology Unit -
+                University of Alabama at Birmingham" align="center" /><br />
+      <br />
+    </div>
+   
+    
+    <!-- End header -->
+
+    <!-- Start menu -->
+    <div id="menu">
+      <table class="navig">
+	<tbody><tr>
+	  <td class="blank"></td>
+	  <td class="cell"><a href="../index.html">Home</a></td>
+	  <td class="cell"><a href="./research.html">Research</a></td>
+	  <td class="cell"><a href="./training.html">Training</a></td>
+	  <td class="cell"><a href="./resources.html">Resources</a></td>
+	  <td class="cell"><a href="./papers.html">Publications</a></td>
+	  <td class="cell"><a href="./people.html">Contact</a></td>
+	  <td class="blank"></td>
+	</tr>
+      </tbody></table>
+    </div>
+    <!-- End menu -->
+
+    <!-- Start content -->
+    <div id="content">
+     
+<p class="txtzone">
+    <span class="titletext">	
+    Research</span><br>
+    <br>
+    The research activity of the Computational Molecular Biology Unit at UAB touches upon many aspects of computational genomics and structural bioinformatics.  Current research topics are as follows:
+    <table class="paper" border=0>
+        <tbody><tr><td valign=top>
+    <ul>
+    <!--- 
+    <li><a href="#mutations_and_disease">Effect of protein mutation on human health;</a> 
+    <li><a href="#protein_folding">Protein folding process;</a>
+    <li><a href="#structure_comparison">RNA and Protein structure comparison and prediction;</a>
+    --->
+    <li>Structural variations in cancer genomes
+    <li>Evolution  of genome-architecture;
+    <li>Prognostic gene expression markers for ovarian cancer.
+    </ul>
+    </td></tr>
+    </tbody>
+    </table>
+    <!---
+    <a name="mutations_and_disease"><p class="year" >
+     Mutations and Disease
+    </p></a>
+    <table border=0 cellpadding="7" cellspacing="7" class="paper">
+      <tbody><tr><td valign=top>
+ 	    <p align="left"><img src="img/disease.png" alt="fi" width="400" align="right"  hight="250" />Single Nucleotide Polymorphisms (SNPs) are an important source of human
+ 	      genome variability. The non-synonymous SNPs occurring in coding regions
+ 	      resulting in single amino acid polymorphisms (SAPs) may affect protein 
+ 	      function and lead to pathology. We are interested to study the 
+ 	      relationship between mutation and disease to develop machine learning 
+ 	      methods for the prediction of disease-related SAPs. 
+ 	      The input features of our methods are sequence, evolutive and functional
+ 	      information. We have implemented <a target=blank
+        href="http://gpcr2.biocomp.unibo.it/cgi/predictors/PhD-SNP/PhD-SNP.cgi">PhD-SNP</a>, a simple method based on 
+ 	      protein sequence and profile data. Recently, in 
+ 	      <a target=blank href="http://snps-and-go.biocomp.unibo.it/"> SNPs&GO</a>, we improved the accuracy
+ 	      of the detection of disease-related SAPs including protein functional 
+ 	      information. All the predictors has been tested using a cross-validation
+ 	      procedure on a set of annotated SAPs selected from <a target=blank 
+        href="ftp://ftp.expasy.org/databases/uniprot/current_release/knowledgebase/complete/docs/humsavar.txt">
+ 	        SwissVar</a> database.<br>
+ 	      In the 2009 the Marie-Curie IOF project 
+              <a href="http://snps.biofold.org/mut2dis">Mut2Dis
+              (PIOF-GA-2009-237225)</a>
+              has been granted by the European Union with ~217K Euro to develop
+              new machine learning based approaches based on protein structure
+              information to predict the impact of SAPs.
+ 	      </p>
+ 	    </td>
+      </tr>
+    </tbody>
+    </table>
+    <a name="protein_folding">
+    <p class="year">
+     Protein Folding Stability and Kinetics
+    </p></a>
+    <table cellpadding="7" cellspacing="7" class="paper">
+      <tbody><tr><td>
+        <div align="left">
+          <p><img src="img/folding.png" alt="fi2" width="400" align="left"  hight="250" />Protein folding is a complex process that is responsible for the formation 
+            of the protein tree-dimensional structure. In our work we study the protein
+            folding focusing on two main aspects: the protein stability and the folding     kinetics. We are interested to predict the effect of single point protein 
+            mutation on protein stability. To measure the effect of the mutation, we 
+            use the variation of the free energy change (ddG) upon mutation that can be
+            calculated as the difference of the free energy variation (dG) for the 
+            mutant and the wild-type proteins. If we consider the unfolding free 
+            energy we 
+            have that more stable mutations correspond to positive ddG values and less
+            stable mutants to negative ddG. In the 2004 we developed 
+            <a target=blank href="http://gpcr2.biocomp.unibo.it/cgi/predictors/I-Mutant/I-Mutant.cgi">I-Mutant</a> 
+            a neural network binary classification method to predict if a mutation 
+            increase or decrease the protein stability using protein structure.
+            In the 2005 the second version of the program 
+            <a target=blank href="http://gpcr2.biocomp.unibo.it/cgi/predictors/I-Mutant2.0/I-Mutant2.0.cgi">I-Mutant2.0</a> has been 
+            implemented to predict ddG value using only sequence information. 
+            All this methods has been tested using a cross-validation procedure on
+            a set of ddG values extracted from 
+            <a target=blank href="http://gibk26.bse.kyutech.ac.jp/jouhou/Protherm/protherm.html">
+              Protherm </a>database.
+            Currently a new version of the tool is under development.<br> 
+            We are also interested in the understanding of protein folding kinetics. 
+            In general proteins can have two-state kinetics when they folds directly 
+            to the native state from the unfolded state or multi-state kinetics when 
+            the protein folds through at least one intermediate state. The folding 
+            rate describes how fast the folding process is and is related to the 
+            activation energy of the process. In the 2007, 
+            <a target=blank href="http://gpcr2.biocomp.unibo.it/cgi/predictors/K-Fold/K-Fold.cgi">
+              K-Fold</a> tools has been developed to predict
+            the folding kinetics and rate of a given protein using structural 
+            information.<br>
+          </p>
+       
+         
+        </div></td>
+      </tr></tbody>
+    </table>
+    <a name="structure_comparison"><p class="year">
+     Protein and RNA Structure Comparison and Prediction
+    </p></a>
+    <table cellpadding="7" cellspacing="7" class="paper">
+      <tbody><tr><td>
+        <p align="left"><img src="img/sara.png" alt="fi3" width="400" align="right"  hight="250" />The structure of biologically relevant macromolecules such as protein and
+          RNA is important to understand their function. According to this hypothesis
+          the structure is important to infer the function. Our group is developing 
+	  methods for structural alignment to 
+          extract common feature between different molecules and use them to predict
+          unknown structure. In the 2008 
+          <a target=blank href="http://sgu.bioinfo.cipf.es/services/SARA/">
+            SARA</a> algorithm has been implemented to align RNA tree-dimensional 
+          structures. A new pipeline using SARA program has been used to assign
+          RNA function using structure similarity.<br>
+          In collaboration with Marc Marti Renom at the
+          <a target=blank href="http://sgt.cnag.cat/">CNAG</a>, Barcelona  
+          (Spain) we are implementing 
+          a statistical potential to score RNA structures and to select near 
+          native ones. We are also interested to develop new methods for RNA
+          structure prediction.     </p>
+        </td></tr></tbody>
+    </table>
+    --->
+<a name="cancer"><p class="year">Structural variations in cancer genome</p></a>
+<table cellpadding="7" cellspacing="7" class="paper">
+      <tbody><tr><td>
+        <p align="left"><img src="img/cancer_malay.png" alt="fi4" width="400" align="right"  hight="250" />Recent large-scale sequencing efforts of cancer genomes indicate that genome rearrangements in cancer are more pervasive than earlier thought. A term, called “chromothripsis”, has been coined to describe the massive genome reorganization that happens in a subset of cancer genomes. Such reorganizations frequently create gene fusions that are oncogenic. We are investigating the genome rearrangements in cancer using probabilistic models to identify significant “driver” structural rearrangements. Various modeling techniques including Bayesian, maximum likelihood and support vector machine are being evaluated to gain insight into the structural rearrangements in cancer genomes. The goals are two folds: (a) Investigate and evaluate various statistical modeling techniques to identify significant structural rearrangements in cancer. (b) Investigate evolution of cancer genomes by following progression of genomic rearrangements in various grades of cancer. </p>
+        </td></tr></tbody>
+    </table>
+    <a name="cancer"><p class="year">Evolution of genome architecture</p></a>
+<table cellpadding="7" cellspacing="7" class="paper">
+      <tbody><tr><td>
+        <p align="left"><img src="img/cancer_malay.png" alt="fi4" width="400" align="right"  hight="250" />We use computational linguistic technique to understand genome as a language. We are currently finding the properties of these languages and their roles in evolution. </p>
+        </td></tr></tbody>
+    </table>
+</p>
+
+<a name="cancer"><p class="year">Finding expression biomarkers in Ovarian cancer</p></a>
+<table cellpadding="7" cellspacing="7" class="paper">
+      <tbody><tr><td>
+        <p align="left"><img src="img/cancer_malay.png" alt="fi4" width="400" align="right"  hight="250" />We published recently a gene expression signature that can identify a subset of patients with worst outcome. In this project, we are sequencing ovarian cancer patients to create a prognostic and predictive marker to create a better therapy for ovarian cancer.</p>
+        </td></tr></tbody>
+    </table>
+   
+    
+    <!-- Start bottom -->
+    <div id="bottom">
+    University of Alabama at Birmingham.
+    619 19th St. South, WP220.
+    Birmingham (AL), 35249 (USA).
+     <br>
+    </div>
+    <!-- End bottom -->
+ 
+    
+    
+    <div id="content"><img class="bottom" src="./img/bottom.png" alt="Computational Molecular Biology Unit -
+   University of Alabama at Birmingham" align="center" /></div>
+   
+    
+    
+    <!-- End footer -->
+  </div>
+    <!-- End Main -->
+  </div>
+  <br><br>
+</body></html>
