@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+CB2EDU is the educational branch of the Computational Genomics Lab of Malay Basu as Kansas University Medical Center. 
