@@ -31,7 +31,6 @@ CB2-101 has two step registration process.
 [Discord](https://discord.gg/PXYdNcqHMe)
 : Course info and discussion forum. We also use this platform for all communications inside and outside of the class. Make sure that you have subscribed to cb2101-2023 channel.
 
-https://github.com/cb2edu/CB2-101-BioComp
 
 ### General resources
 
