@@ -5,10 +5,11 @@ project:
 website:
   title: "CB2EDU.ORG"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - cb2101.qmd
+      - href: 2023/cb2-101.qmd
+        text: CB2-101
       - about.qmd
 
 format:

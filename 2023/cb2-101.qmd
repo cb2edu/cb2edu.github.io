@@ -1,0 +1,44 @@
+---
+title: "CB2-101 Bioinformatics Shopclass"
+---
+
+> "Best course at UAB. Period." - Anonymous student review
+
+CB2-101 is our flagship award-wining course. This is a very highly-rated, fast-paced, intensive and demanding, workshop-style course designed after NSF immersion learning proposal. The goal is not to make you an expert in bioinformatics, but to make you competent in carrying out bioinformatics research. The emphasis in on skills, not on theoretical expertise. The course is a registered graduate course with full 3 credits, but taught in just 12 working days. The course is designed in such a way so that the participants should be immersed in the material and dedicate full time in the duration of the course.
+
+After nearly 10 years of continuous run at the University of Alabama, Birmingham, the course is now offered in person at Kansas University Medical Center, Kansas City campus. Over the years, the name of the course has evolved to reflect the content of the course. It's better to call it by its CB2EDU call name as CB2-101.
+
+### Eligibility
+The course is free for everyone. No programming experience necessary. However, a passion for computers and technology is essential for the course.
+
+### Dates
+Nov 6-21. From 9:00AM to 1:00 PM every working day.
+
+::: {.callout-note}
+The course has a soft start to make sure that you come prepared for the class. Please join course Discord channel (see below) as soon as possible. All communication regarding this course will be happening through this channel.
+:::
+
+### Location
+
+### Registration
+
+CB2-101 has two step registration process. 
+
+[Registration form](https://forms.gle/RQ5DtFjiZ2CijVJf9)
+: 	Please register first using this form then proceed to Discord registration. For credits, you need to register officially through KUMC course registration process in addition to this from. The course is listed on catalog as "PATH 914 Bioinformatics computing". If you have missed the deadline, contact you graduate course coordinator and see whether you can still register for the course. We might have a mechanism for delayed credit earning for this course. Contact course director for more information.
+
+[Discord](https://discord.gg/PXYdNcqHMe)
+: Course info and discussion forum. We also use this platform for all communications inside and outside of the class. Make sure that you have subscribed to cb2101-2023 channel.
+
+https://github.com/cb2edu/CB2-101-BioComp
+
+### General resources
+
+[Syllabus]()
+: I will post and updated syllabus later. For the time being to get and idea of course syllabus browse the github repository below.
+
+[Github repository](https://github.com/cb2edu/CB2-101-BioComp)
+: Course materials source code and binaries.
+
+
+
