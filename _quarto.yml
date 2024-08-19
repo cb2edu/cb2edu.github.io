@@ -10,10 +10,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: 2023/cb2-101.qmd
+      - href: cb2-101.html
         text: CB2-101
       - about.qmd
-
+  body-footer: |
+      ---
+      <br><center><small>&copy; 2024 cb2edu.org. All rights reserved.</small></center>
 format:
   html:
     theme: cosmo
