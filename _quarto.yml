@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+     - /**/img/*
 
 website:
   title: "CB2EDU.ORG"

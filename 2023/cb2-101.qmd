@@ -2,6 +2,8 @@
 title: "CB2-101 Bioinformatics Shop Class"
 ---
 
+![Group photo](./img/IMG_1058.jpg)
+
 > "Best course at UAB. Period." - Anonymous student review
 
 CB2-101 is our flagship award-wining course. This is a very highly-rated, fast-paced, intensive and demanding, workshop-style course designed after NSF immersion learning proposal. The goal is not to make you an expert in bioinformatics, but to make you competent in carrying out bioinformatics research. The emphasis in on skills, not on theoretical expertise. The course is a registered graduate course with full 3 credits, but taught in just 12 working days. The course is designed in such a way so that the participants should be immersed in the material and dedicate full time in the duration of the course.
