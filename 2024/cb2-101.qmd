@@ -8,6 +8,8 @@ title: "CB2-101 Bioinformatics Shop Class (2024 edition)"
 The name of this class is borrowed from Matthew Crawford's book [Shop Class as Soulcraft](https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467). I believe unless you achieve a level of technical expertise (shop class) it is not possible to do actual bioinformatics science (soulcraft). 
 :::
 
+### Objective
+
 CB2-101 is our flagship award-wining course. This is a very highly-rated, fast-paced, intensive and demanding, workshop-style course designed after NSF immersion learning proposal. The goal is not to make you an expert in bioinformatics, but to make you competent in carrying out bioinformatics research. The emphasis in on skills, not on theoretical expertise. The course is a registered graduate course with full 3 credits, but taught in just 12 working days. The course is designed in such a way so that the participants should be immersed in the material and dedicate full time in the duration of the course.
 
 After nearly 10 years of continuous run at the University of Alabama, Birmingham, the course is now offered in person at Kansas University Medical Center, Kansas City campus. Over the years, the name of the course has evolved to reflect the content of the course. It's better to call it by its CB2EDU call name as CB2-101.
