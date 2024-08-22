@@ -13,6 +13,8 @@ website:
         text: Home
       - href: cb2-101.html
         text: CB2-101
+      - href: https://discord.gg/8kHU4xguMR
+        text: CB2EDU discord
       - about.qmd
   body-footer: |
       ---
